@@ -1,4 +1,4 @@
-Project Real time link :- https://netflix-clone-b77b5.web.app/profile
+Project Real time link :- https://netflix-clone-b77b5.firebaseapp.com/
 
 
 
